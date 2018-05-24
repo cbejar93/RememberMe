@@ -2,62 +2,74 @@
     {
       "id": 1,
       "name": "Mama Elena",
-      "image": "/assets/images/abuela.jpg"
+      "image": "/assets/images/abuela.jpg",
+      "clicked": false 
     },
     {
         "id": 2,
         "name": "Ernesto de la Cruz",
-        "image": "/assets/images/badMan.jpg"
+        "image": "/assets/images/badMan.jpg",
+        "clicked": false 
       },
       {
         "id": 3,
         "name": "Dante",
-        "image": "/assets/images/Dante.jpg"
+        "image": "/assets/images/Dante.jpg",
+        "clicked": false 
       },
       {
         "id": 4,
         "name": "Papa Hector",
-        "image": "/assets/images/hector.jpg"
+        "image": "/assets/images/hector.jpg",
+        "clicked": false 
       },
       {
         "id": 5,
         "name": "Mama Imelda",
-        "image": "/assets/images/imilde.png"
+        "image": "/assets/images/imilde.png",
+        "clicked": false 
       },
       {
         "id": 6,
         "name": "Mama Luisa",
-        "image": "/assets/images/Luisa.png"
+        "image": "/assets/images/Luisa.png",
+        "clicked": false 
       },
       {
         "id": 7,
         "name": "Mama Coco",
-        "image": "/assets/images/mamaCoco.jpg"
+        "image": "/assets/images/mamaCoco.jpg",
+        "clicked": false 
       },
       {
         "id": 8,
         "name": "Miguel Rivera",
-        "image": "/assets/images/miguel.jpg"
+        "image": "/assets/images/miguel.jpg",
+        "clicked": false 
       },
       {
         "id": 9,
         "name": "Tia Rosita",
-        "image": "/assets/images/abuela.jpg"
+        "image": "/assets/images/TiaRosita.png",
+        "clicked": false 
       },
       {
         "id": 10,
         "name": "Los Tios",
-        "image": "/assets/images/tios.jpg"
+        "image": "/assets/images/tios.jpg",
+        "clicked": false 
       },
       {
         "id": 11,
         "name": "Papa Julio",
-        "image": "/assets/images/viejo.png"
+        "image": "/assets/images/viejo.png",
+        "clicked": false 
       },
       {
         "id": 12,
         "name": "Tio Berto",
-        "image": "/assets/images/Berto_Rivera.png"
+        "image": "/assets/images/Berto_Rivera.png",
+        "clicked": false 
       }
 
 ]

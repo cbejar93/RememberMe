@@ -8,7 +8,7 @@ import shuffle  from "shuffle-array";
 class App extends Component {
   state = {
     cocos,
-    counter: 0
+    counter: 0,
   }; 
 
   
@@ -18,12 +18,13 @@ class App extends Component {
     console.log(cocos);
   };
 
-
-
   handleIncrement = () => {
     // We always use the setState method to update a component's state
     this.setState({ counter: this.state.counter + 1 });
-  };  
+  }
+  // handleTouch = (id, x) => {
+  //   const cocorons = this.state.cocos.filter(coco=> coco.id == id)
+  // };  
   render() { 
     return (
       <div>
