@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Mama Elena",
-      "image": "../images/abuela.jpg"
+      "image": "../../images/abuela.jpg"
     },
     {
         "id": 2,

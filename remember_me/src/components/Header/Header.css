@@ -1,14 +1,17 @@
 
 
 .jumbotron {
-    background-image: url("../../images/cover.jpg");
+    background-image: url("../../images/diegorivera.jpg");
 }
 
 h1 {
     color: white;
-    background-color: yellow;
+    font-size: 15px;
 }
 
-.lead{
-    background-color: yellow;
+.display-4 {
+    font-size: 5.5rem;
+    font-weight: 300;
+    font-family: 'Bungee', cursive;
+    line-height: 1.2;
 }
