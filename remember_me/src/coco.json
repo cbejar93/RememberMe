@@ -2,62 +2,62 @@
     {
       "id": 1,
       "name": "Mama Elena",
-      "image": "../../images/abuela.jpg"
+      "image": "/assets/images/abuela.jpg"
     },
     {
         "id": 2,
         "name": "Ernesto de la Cruz",
-        "image": "../images/badMan.jpg"
+        "image": "/assets/images/badMan.jpg"
       },
       {
         "id": 3,
         "name": "Dante",
-        "image": "../images/Dante.jpg"
+        "image": "/assets/images/Dante.jpg"
       },
       {
         "id": 4,
         "name": "Papa Hector",
-        "image": "../images/hector.jpg"
+        "image": "/assets/images/hector.jpg"
       },
       {
         "id": 5,
         "name": "Mama Imelda",
-        "image": "../images/imilde.png"
+        "image": "/assets/images/imilde.png"
       },
       {
         "id": 6,
         "name": "Mama Luisa",
-        "image": "../images/Luisa.png"
+        "image": "/assets/images/Luisa.png"
       },
       {
         "id": 7,
         "name": "Mama Coco",
-        "image": "../images/mamaCoco.jpg"
+        "image": "/assets/images/mamaCoco.jpg"
       },
       {
         "id": 8,
         "name": "Miguel Rivera",
-        "image": "../images/miguel.jpg"
+        "image": "/assets/images/miguel.jpg"
       },
       {
         "id": 9,
         "name": "Tia Rosita",
-        "image": "../images/abuela.jpg"
+        "image": "/assets/images/abuela.jpg"
       },
       {
         "id": 10,
         "name": "Los Tios",
-        "image": "../images/tios.jpg"
+        "image": "/assets/images/tios.jpg"
       },
       {
         "id": 11,
         "name": "Papa Julio",
-        "image": "../images/viejo.jpg"
+        "image": "/assets/images/viejo.png"
       },
       {
         "id": 12,
         "name": "Tio Berto",
-        "image": "../images/Berto_Rivera.jpg"
+        "image": "/assets/images/Berto_Rivera.png"
       }
 
 ]
