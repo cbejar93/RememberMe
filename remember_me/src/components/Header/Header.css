@@ -1,0 +1,14 @@
+
+
+.jumbotron {
+    background-image: url("../../images/cover.jpg");
+}
+
+h1 {
+    color: white;
+    background-color: yellow;
+}
+
+.lead{
+    background-color: yellow;
+}
