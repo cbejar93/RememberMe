@@ -9,7 +9,15 @@ class App extends Component {
   state = {
     cocos,
     counter: 0,
+    currentGame: 1,
   }; 
+
+  endGame = () => {
+    this.setState({counter: 0});
+    this.setState({currentGame: this.state.currentGame +1});
+    this.forceUpdate();
+
+  }
 
   
   
@@ -29,14 +37,17 @@ class App extends Component {
     return (
       <div>
         <Header counter={this.state.counter} />
-        <div className="container"shuffleImage={this.shuffleImage()}>
+        <div className="container">
           <div className="row">
             {this.state.cocos.map(coco => (
             <CocoCard
+            shuffleImage={this.shuffleImage}
+            endGame = {this.endGame}
             key={coco.id}
             name={coco.name}
             image={coco.image}
             handleIncrement={this.handleIncrement}
+            currentGame ={this.state.currentGame}j
             />      
             ))}
           </div>
